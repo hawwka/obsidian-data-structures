@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы/Два указателя/Fast & Slow, In-place.md",
+                "file": "Алгоритмы/Связные списки/Left & Right (Linked List).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast & Slow, In-place"
+              "title": "Left & Right (Linked List)"
             }
           }
         ],
@@ -211,16 +211,16 @@
   },
   "active": "b7b48e3fd7544bbd",
   "lastOpenFiles": [
+    "Алгоритмы/Связные списки/Fast & Slow (Linked List).md",
+    "Алгоритм решения задач LeetCode.md",
+    "Заметки.md",
     "Полезные ссылки и ресурсы.md",
+    "Алгоритмы/Два указателя/Fast & Slow, In-place.md",
     "Список важных алгоритмов.md",
     "Алгоритмы/Связные списки/Left & Right (Linked List).md",
-    "Алгоритмы/Связные списки/Fast & Slow (Linked List).md",
-    "Алгоритмы/Два указателя/Fast & Slow, In-place.md",
     "Алгоритмы/Два указателя/Left & Right.md",
     "Алгоритмы/Два указателя/Merge Pattern (Каждому свое).md",
     "Алгоритмы/Связные списки",
-    "Алгоритм решения задач LeetCode.md",
-    "Заметки.md",
     "Без названия.canvas",
     "Задачи. Однонаправленные указатели (Fast & Slow, In-place).md",
     "Алгоритмы/Два указателя",
