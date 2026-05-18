@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a6b26db2b877ba43",
+        "id": "b8d010a42a95f177",
         "type": "tabs",
         "children": [
           {
-            "id": "ecf4857c28ffa85d",
+            "id": "c8c32069e9fadffa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задачи/Задачи. Однонаправленные указатели (Fast & Slow, In-place).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Задачи. Однонаправленные указатели (Fast & Slow, In-place)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#two_pointers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +70,12 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 348.5
   },
   "right": {
     "id": "e2828a4f0289a984",
@@ -194,16 +191,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecf4857c28ffa85d",
+  "active": "c8c32069e9fadffa",
   "lastOpenFiles": [
-    "Полезные ссылки и ресурсы.md",
+    "Паттерны алгоритмов/Два указателя/Слияние (Merge Pattern).md",
+    "Паттерны алгоритмов/Два указателя/Однонаправленные указатели (Fast & Slow, In-place).md",
+    "Паттерны алгоритмов/Два указателя/Разнонаправленные указатели (Left & Right).md",
     "Алгоритм решения задач LeetCode.md",
-    "Задачи/Задачи. Однонаправленные указатели (Fast & Slow, In-place).md",
-    "Паттерны алгоритмов/Однонаправленные указатели (Fast & Slow, In-place).md",
-    "Паттерны алгоритмов/Слияние (Merge Pattern).md",
-    "Паттерны алгоритмов/Разнонаправленные указатели (Left & Right).md",
-    "Задачи/Задачи. Слияние (Merge Pattern).md",
+    "Полезные ссылки и ресурсы.md",
+    "Без названия.canvas",
+    "Задачи. Однонаправленные указатели (Fast & Slow, In-place).md",
+    "Паттерны алгоритмов/Два указателя",
     "Задачи/Задачи. Разнонаправленные указатели (Left & Right).md",
+    "Задачи/Задачи. Слияние (Merge Pattern).md",
+    "Задачи/Задачи. Однонаправленные указатели (Fast & Slow, In-place).md",
     "Паттерны алгоритмов",
     "Задачи"
   ]
