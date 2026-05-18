@@ -13,12 +13,13 @@
 
 ## Задачи
 
-| Задача                                 | Ссылка                                                                         | Статус | Решил сам | Дата решения | Решил повторно, дата |
-| -------------------------------------- | ------------------------------------------------------------------------------ | ------ | --------- | ------------ | -------------------- |
-| 6. Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/ | ✅      | Нет       | 17.05.2026   |                      |
-| 27. Remove Element                     | https://leetcode.com/problems/remove-element/description/                      | ✅      | Нет       | 18.05.2026   |                      |
-| 283. Move Zeroes                       | https://leetcode.com/problems/move-zeroes/description/                         | 🟥     |           |              |                      |
-| 905. Sort Array By Parity              | https://leetcode.com/problems/sort-array-by-parity/description/                | 🟥     |           |              |                      |
+| Задача                                  | Ссылка                                                                         | Статус | Решил сам | Дата решения | Решил повторно, дата |
+| --------------------------------------- | ------------------------------------------------------------------------------ | ------ | --------- | ------------ | -------------------- |
+| 6. Remove Duplicates from Sorted Array  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/ | ✅      | Нет       | 17.05.2026   |                      |
+| 27. Remove Element                      | https://leetcode.com/problems/remove-element/description/                      | ✅      | Нет       | 18.05.2026   |                      |
+| 283. Move Zeroes                        | https://leetcode.com/problems/move-zeroes/description/                         | ✅      | Да        | 18.05.2026   |                      |
+| 905. Sort Array By Parity               | https://leetcode.com/problems/sort-array-by-parity/description/                | ✅      | Да        | 18.05.2026   |                      |
+| 26. Remove Duplicates from Sorted Array |                                                                                |        |           |              |                      |
 
 
 
