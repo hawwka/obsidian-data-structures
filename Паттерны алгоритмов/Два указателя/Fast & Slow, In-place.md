@@ -13,13 +13,14 @@
 
 ## Задачи
 
-| Задача                                  | Ссылка                                                                         | Статус | Решил сам | Дата решения | Решил повторно, дата |
-| --------------------------------------- | ------------------------------------------------------------------------------ | ------ | --------- | ------------ | -------------------- |
-| 6. Remove Duplicates from Sorted Array  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/ | ✅      | Нет       | 17.05.2026   |                      |
-| 27. Remove Element                      | https://leetcode.com/problems/remove-element/description/                      | ✅      | Нет       | 18.05.2026   |                      |
-| 283. Move Zeroes                        | https://leetcode.com/problems/move-zeroes/description/                         | ✅      | Да        | 18.05.2026   |                      |
-| 905. Sort Array By Parity               | https://leetcode.com/problems/sort-array-by-parity/description/                | ✅      | Да        | 18.05.2026   |                      |
-| 26. Remove Duplicates from Sorted Array |                                                                                |        |           |              |                      |
+| Задача                                                                                                                                   | Уровень | Статус | Решил сам | Дата решения | Сколько раз решил |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ | --------- | ------------ | ----------------- |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                | Easy    | ✅      | Нет       | 17.05.26     | 1                 |
+| [27. Remove Element](https://leetcode.com/problems/remove-element/description/)                                                          | Easy    | ✅      | Нет       | 18.05.26     | 1                 |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                               | Easy    | ✅      | Да        | 18.05.26     | 1                 |
+| [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)                                             | Easy    | ✅      | Да        | 18.05.26     | 1                 |
+| [80. Remove Duplicates from Sorted Array II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | Medium  | ✅      | Нет       | 18.05.26     | 1                 |
+| 2460. Apply Operations to an Array                                                                                                       | Easy    |        |           |              |                   |
 
 
 
