@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "7a0420408af39b90",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b26db2b877ba43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34dbba6c919208f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "4725691004a13403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи/Задачи. Однонаправленные указатели (Fast & Slow, In-place).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задачи. Однонаправленные указатели (Fast & Slow, In-place)"
+            }
+          },
+          {
+            "id": "ecf4857c28ffa85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи/Задачи. Однонаправленные указатели (Fast & Slow, In-place).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задачи. Однонаправленные указатели (Fast & Slow, In-place)"
+            }
+          },
+          {
+            "id": "eb6aa57bac74886c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Полезные ссылки и ресурсы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полезные ссылки и ресурсы"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eb774c3354851f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "872c8c08fbcf953d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bb08420c95f3f39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4df9de54cfed2a15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2b44a956ea8f0be4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.5
+  },
+  "right": {
+    "id": "e2828a4f0289a984",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b5026a1971337c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a3a398e6baa22d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Полезные ссылки и ресурсы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Полезные ссылки и ресурсы"
+            }
+          },
+          {
+            "id": "eb77f90a8f229da1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Полезные ссылки и ресурсы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Полезные ссылки и ресурсы"
+            }
+          },
+          {
+            "id": "0b454219708ff491",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "529d1b0fd81a6d45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "4da8a1603dad444f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Полезные ссылки и ресурсы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Полезные ссылки и ресурсы"
+            }
+          },
+          {
+            "id": "492d363583a7f43c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "eb6aa57bac74886c",
+  "lastOpenFiles": [
+    "Алгоритм решения задач LeetCode.md",
+    "Полезные ссылки и ресурсы.md",
+    "Задачи/Задачи. Однонаправленные указатели (Fast & Slow, In-place).md",
+    "Паттерны алгоритмов/Однонаправленные указатели (Fast & Slow, In-place).md",
+    "Паттерны алгоритмов/Слияние (Merge Pattern).md",
+    "Паттерны алгоритмов/Разнонаправленные указатели (Left & Right).md",
+    "Задачи/Задачи. Слияние (Merge Pattern).md",
+    "Задачи/Задачи. Разнонаправленные указатели (Left & Right).md",
+    "Паттерны алгоритмов",
+    "Задачи"
+  ]
+}
