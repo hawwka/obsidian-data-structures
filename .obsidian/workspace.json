@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы/Два указателя/Left & Right.md",
+                "file": "Алгоритмы/Два указателя/Fast & Slow, In-place.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Left & Right"
+              "title": "Fast & Slow, In-place"
             }
           }
         ],
@@ -211,12 +211,12 @@
   },
   "active": "b7b48e3fd7544bbd",
   "lastOpenFiles": [
+    "Алгоритмы/Два указателя/Left & Right.md",
     "Алгоритм решения задач LeetCode.md",
     "Алгоритмы/Без названия.md",
     "Алгоритмы/Хэш",
     "Алгоритмы/Два указателя/Merge Pattern (Каждому свое).md",
     "Алгоритмы/Скользящее окно",
-    "Алгоритмы/Два указателя/Left & Right.md",
     "Алгоритмы/Два указателя/Fast & Slow, In-place.md",
     "Алгоритмы/Связные списки/Left & Right (Linked List).md",
     "Алгоритмы/Связные списки/Fast & Slow (Linked List).md",
