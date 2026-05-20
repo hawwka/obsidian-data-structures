@@ -21,6 +21,10 @@
 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)                                             | ✅      | Да        | 18.05.26     | 1                 |
 | [80. Remove Duplicates from Sorted Array II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | ✅      | Нет       | 18.05.26     | 1                 |
 | 2460. Apply Operations to an Array                                                                                                       |        |           |              |                   |
+|                                                                                                                                          |        |           |              |                   |
+|                                                                                                                                          |        |           |              |                   |
+|                                                                                                                                          |        |           |              |                   |
+|                                                                                                                                          |        |           |              |                   |
 
 
 
