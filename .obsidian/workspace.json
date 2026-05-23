@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы/Два указателя/Fast & Slow, In-place.md",
+                "file": "План (попасть на работу).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast & Slow, In-place"
+              "title": "План (попасть на работу)"
             }
           }
         ],
@@ -211,9 +211,10 @@
   },
   "active": "b7b48e3fd7544bbd",
   "lastOpenFiles": [
+    "Алгоритмы/Два указателя/Fast & Slow, In-place.md",
+    "План (попасть на работу).md",
     "Алгоритмы/Два указателя/Left & Right.md",
     "Алгоритмы/Два указателя/Merge Pattern (Каждому свое).md",
-    "Алгоритмы/Два указателя/Fast & Slow, In-place.md",
     "Алгоритм решения задач LeetCode.md",
     "Алгоритмы/Без названия.md",
     "Алгоритмы/Хэш",
