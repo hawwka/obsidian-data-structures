@@ -16,3 +16,16 @@ Tortoise and Hare — Floyd's Algorithm
 |                                       |        |           |              |                   |
 |                                       |        |           |              |                   |
 |                                       |        |           |              |                   |
+
+#LinkedList #LeftRight
+
+
+| Задача                                    | Статус | Решил сам | Дата решения | Сколько раз решил |
+| ----------------------------------------- | ------ | --------- | ------------ | ----------------- |
+| 234. Palindrome Linked List (Easy/Medium) |        |           |              |                   |
+| 143. Reorder List (Medium)                |        |           |              |                   |
+| 61. Rotate List (Medium)                  |        |           |              |                   |
+|                                           |        |           |              |                   |
+|                                           |        |           |              |                   |
+|                                           |        |           |              |                   |
+|                                           |        |           |              |                   |
